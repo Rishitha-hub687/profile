@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rishitha | Personal Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Hi, I'm Rishitha</h1>
+        <p>Welcome to my little corner of the internet!</p>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>I'm Rishitha, a curious mind who loves learning new things—especially when it comes to technology. Whether it's coding, organizing ideas, or exploring new tools, I enjoy diving in and figuring things out.</p>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML, CSS, JavaScript</li>
+            <li>Python & basic data analysis</li>
+            <li>Git and version control</li>
+            <li>Strong communication & problem-solving</li>
+        </ul>
+    </section>
+
+    <section id="education">
+        <h2>Education</h2>
+        <p><strong>XYZ University</strong><br>
+        Bachelor’s in Computer Science<br>
+        2023 – 2027</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>Email: <a href="mailto:rishitharishi@example.com">rishitha@example.com</a></p>
+
+    </section>
+
+    <footer>
+        <p>© Rishitha, 2025</p>
+    </footer>
+</body>
+</html>
